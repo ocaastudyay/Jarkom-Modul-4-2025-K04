@@ -15,7 +15,7 @@ Anggota :
 <img width="1230" height="862" alt="Topologi VLSM Tahap 1" src="https://github.com/user-attachments/assets/622c0294-ba27-472b-874a-915bcc665830" />
 
 ## Topologi CPT Penjumlahan Host & Penentuan Prefix
-<img width="1213" height="712" alt="Terbaru" src="https://github.com/user-attachments/assets/b53406a8-7d7c-41ad-8c77-d36197906721" />
+<img width="1328" height="770" alt="puwaling baru" src="https://github.com/user-attachments/assets/3454fa85-2262-47e4-9621-e124477e4526" />
 
 
 ## Tabel Pembagian Rute
