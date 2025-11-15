@@ -8,3 +8,6 @@ Anggota :
 
 ## Topologi Awal CPT
 <img width="1096" height="740" alt="Topologi Awal Modul 4" src="https://github.com/user-attachments/assets/9125d5c9-f82f-49c6-ab70-b246a9a9f642" />
+
+## Topologi CPT Tahap 1
+<img width="1230" height="862" alt="Topologi VLSM Tahap 1" src="https://github.com/user-attachments/assets/622c0294-ba27-472b-874a-915bcc665830" />
