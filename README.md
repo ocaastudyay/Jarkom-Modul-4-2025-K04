@@ -80,3 +80,5 @@ Tabel Pembagian VLSM setelah diurutkan dengan acuan kebutuhan host yang paling b
 Konfigurasi dimulai dari router lalu lanjut ke klient, dan apabila konfigurasi sukses maka klient bisa melakukan ping 
 <img width="1920" height="1080" alt="Screenshot 2025-11-16 131103" src="https://github.com/user-attachments/assets/02928795-c28a-4143-a723-f79717708bac" />
 <img width="1920" height="1080" alt="Screenshot 2025-11-16 131220" src="https://github.com/user-attachments/assets/b007bd7b-7a9e-4952-92bb-c241a678e80f" />
+
+## Configurasi Static Setiap Router
