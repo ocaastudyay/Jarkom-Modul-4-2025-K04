@@ -82,3 +82,6 @@ Konfigurasi dimulai dari router lalu lanjut ke klient, dan apabila konfigurasi s
 <img width="1920" height="1080" alt="Screenshot 2025-11-16 131220" src="https://github.com/user-attachments/assets/b007bd7b-7a9e-4952-92bb-c241a678e80f" />
 
 ## Configurasi Static Setiap Router
+
+## Link Perhitungsn SPS
+[Link Spreadsheets](https://docs.google.com/spreadsheets/d/1LYbkPg7HrTEP61KLw7R2uUor7H49gNhRat8qLiLYPQg/edit?gid=1300232540#gid=1300232540)
